@@ -10,6 +10,7 @@
 > Data structures, not algorithms, are central to programming.  
 > **Rob Pike**
 
-* [Elements](elements)
-* [Structure](structure)
 * [Architecture](architecture)
+* [Construction](construction)
+* [Language](language)
+* [Structure](structure)
