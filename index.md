@@ -5,6 +5,9 @@
 
 ## The Linguistics of Computer Programming
 
+> A problem well stated is half solved.    
+> **Charles Kettering**
+
 * [Introduction](introduction)
 * [Resources](resources)
 * [Organization](organization)
