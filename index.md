@@ -3,7 +3,7 @@
 
 ![banner](/linguistics/photos/banner.png)
 
-## The Linguistics of Computer Programming
+## Linguistics of Programming
 
 > A problem well stated is half solved.    
 > **Charles Kettering**
