@@ -1,6 +1,6 @@
 > [home](../)
 
-![banner](/lingusitics/photos/banner.png)
+![banner](/linguistics/photos/banner.png)
 
 ## Diagnostics
 
