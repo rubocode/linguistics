@@ -22,5 +22,6 @@ A programming language needs to provide a one-to-one mapping for
 managing these resources.
 If we achieve congruent semantics, it would be possible to
 build higher level abstractions that captures computing constructs
-at high-fidelity.  The resulting programs would also achieve high
-performance.
+at high-fidelity.
+
+The resulting programs would also achieve high performance.
