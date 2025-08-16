@@ -1,6 +1,6 @@
 > [home](../)
 
-![banner](/lingustics/photos/banner.png)
+![banner](/linguistics/photos/banner.png)
 
 ## Resources
 
