@@ -15,16 +15,12 @@ There are four vital pillars in designing a programming language.
 * A crisp syntax for expressing program design.
 
 A program is machine that manages resources to fulfill intended purposes.
-There are four primary resources that a program manages.
-
-* Knowledge
-* Labor
-* Space
-* Time
+There are four primary resources that a program manages:
+***knowledge***, ***labor***, ***space*** and ***time***.
 
 A programming language needs to provide a one-to-one mapping for
 managing these resources.
 If we achieve the congruent semantics, it would be possible to
 build higher level abstractions that captures computing constructs
-at high-fidelity.  The resulting programs would have achieve high
+at high-fidelity.  The resulting programs would also achieve high
 performance.
