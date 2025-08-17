@@ -1,5 +1,5 @@
-> [memmory](../)
+> [memory](../)
 
 ![banner](/linguistics/photos/banner.png)
 
-## Register
+## Secondary
