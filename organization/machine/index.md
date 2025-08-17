@@ -4,6 +4,6 @@
 
 ## Machine 
 
-* [Device](device)
 * [Memory](memory)
 * [Processor](processor)
+* [Device](device)
