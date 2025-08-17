@@ -1,4 +1,4 @@
-> [construction](../)
+> [structure](../)
 
 ![banner](/linguistics/photos/banner.png)
 
