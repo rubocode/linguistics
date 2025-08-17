@@ -6,4 +6,4 @@
 
 * [Memory](memory)
 * [Processor](processor)
-* [Device](device)
+* [Interface](interface)
